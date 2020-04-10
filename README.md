@@ -2,4 +2,4 @@
 
 算法图解示例代码 rust 版
 
-1. 二分查找 - [src/ch01/binary_search.rs](src/ch01/binary_search.rs)
+1. 二分查找法 `O(log n)` - [src/ch01/binary_search.rs](src/ch01/binary_search.rs)
