@@ -4,3 +4,7 @@
 
 1. 二分查找法 `O(log n)` - [src/ch01/binary_search.rs](src/ch01/binary_search.rs)
 2. 选择排序法 `O(n x n)` - [src/ch02/selection_sort.rs](src/ch02/selection_sort.rs)
+3. 递归算法
+   1. [src/ch03/count_down.rs](src/ch03/count_down.rs)
+   2. [src/ch03/greet.rs](src/ch03/greet.rs)
+   3. [src/ch03/factorial.rs](src/ch03/factorial.rs)
