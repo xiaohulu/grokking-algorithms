@@ -14,3 +14,5 @@
    3. [src/ch04/recursive_count.rs](src/ch04/recursive_count.rs)
    4. [src/ch04/recursive_max.rs](src/ch04/recursive_max.rs)
    5. [src/ch04/recursive_max.rs](src/ch04/recursive_max.rs)
+5. 散列表 `O(1)`
+   1. 
